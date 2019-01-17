@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoieWhraW0xNyIsImEiOiJjajJvZzV3MTkwMjU5MzJvd2o3YXBnbm5kIn0.o_psbdLwu6qZVypvp-UVuA</string>
 </dict>
 </plist>
